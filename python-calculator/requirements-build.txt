@@ -1,0 +1,2 @@
+# Build dependency only; gui_calculator.py uses Python's standard library.
+pyinstaller>=6,<7
